@@ -16,7 +16,7 @@ To install and use the React Instagram-Filter Web App, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/tarunkeshukumar/react-instragram-filter-webapp.git
    ```
 
 2. Navigate to the project directory:
